@@ -1,0 +1,6 @@
+perl ~/homer/configureHomer.pl -install hg19
+
+perl ~/homer/configureHomer.pl -install mm10
+
+findMotifsGenome.pl SOCS3iEKO_LPS_vs_WT_Saline_Fold_Change_decrease.txt mm10 SOCS3iEKO_LPS_vs_WT_Saline_Fold_Change_decrease/ -size 500  -mask
+
