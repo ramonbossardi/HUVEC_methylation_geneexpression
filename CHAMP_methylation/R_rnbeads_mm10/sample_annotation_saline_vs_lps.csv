@@ -1,0 +1,11 @@
+Sample_ID,Sentrix_ID,Sentrix_Position,Sample_Plate,Sample_Well,Sample_Group,Cell_Line,Passage_No,Treatment,CellType
+6260,205291550076.00,R02C01,,,saline,,,,
+6262,205291550076.00,R04C01,,,saline,,,,
+6626,205668270041.00,R05C01,,,saline,,,,
+6628,205668270041.00,R06C01,,,saline,,,,
+6658,205668270041.00,R03C02,,,saline,,,,
+6690,205668270041.00,R06C02,,,saline,,,,
+6259,205291550076.00,R01C01,,,l_wild,,,,
+6629,205668270041.00,R01C02,,,l_wild,,,,
+6657,205668270041.00,R02C02,,,l_wild,,,,
+6659,205668270041.00,R04C02,,,l_wild,,,,

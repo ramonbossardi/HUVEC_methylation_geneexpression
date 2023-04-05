@@ -1,0 +1,10 @@
+Sample_ID,Sentrix_ID,Sentrix_Position,Sample_Plate,Sample_Well,Sample_Group,Cell_Line,Passage_No,Treatment,CellType
+6259,205291550076,R01C01,,,l_wild,,,,
+62631,205291550076,R05C01,,,l_ikeo,,,,
+62632,205291550076,R06C01,,,l_ikeo,,,,
+6607,205668270041,R01C01,,,l_ikeo,,,,
+6610,205668270041,R03C01,,,l_ikeo,,,,
+6629,205668270041,R01C02,,,l_wild,,,,
+6657,205668270041,R02C02,,,l_wild,,,,
+6659,205668270041,R04C02,,,l_wild,,,,
+6686,205668270041,R05C02,,,l_ikeo,,,,
