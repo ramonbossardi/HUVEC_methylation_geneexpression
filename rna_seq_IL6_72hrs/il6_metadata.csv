@@ -1,0 +1,17 @@
+FileName,SampleName,CellType
+IL672h-3_1.fq.gz.subread.BAM  ,IL-6_72h_1,IL6_72h
+IL672h3-3_1.fq.gz.subread.BAM,IL-6_72h_2,IL6_72h
+IL672h3-4_1.fq.gz.subread.BAM,IL-6_72h_3,IL6_72h
+IL672h-4_1.fq.gz.subread.BAM  ,IL-6_72h_4,IL6_72h
+IL696h3-7_1.fq.gz.subread.BAM,IL-6_96h_1,IL6_96h
+IL696h3-8_1.fq.gz.subread.BAM,IL-6_96h_2,IL6_96h
+IL696h-7_1.fq.gz.subread.BAM,IL-6_96h_3,IL6_96h
+IL696h-8_1.fq.gz.subread.BAM,IL-6_96h_4,IL6_96h
+PBS72h-1_1.fq.gz.subread.BAM,PBS_72h_1,PBS_72h
+PBS72h-2_1.fq.gz.subread.BAM,PBS_72h_2,PBS_72h
+PBS72h3-1_1.fq.gz.subread.BAM,PBS_72h_3,PBS_72h
+PBS72h3-2_1.fq.gz.subread.BAM,PBS_72h_4,PBS_72h
+PBS96h3-5_1.fq.gz.subread.BAM,PBS_96h_1,PBS_96h
+PBS96h3-6_1.fq.gz.subread.BAM,PBS_96h_2,PBS_96h
+PBS96h-5_1.fq.gz.subread.BAM,PBS_96h_3,PBS_96h
+PBS96h-6_1.fq.gz.subread.BAM,PBS_96h_4,PBS_96h
